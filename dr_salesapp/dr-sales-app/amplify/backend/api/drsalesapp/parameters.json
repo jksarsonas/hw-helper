@@ -1,0 +1,10 @@
+{
+    "AppSyncApiName": "drsalesapp",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "AuthCognitoUserPoolId": {
+        "Fn::GetAtt": [
+            "authcognito5aa4e90e",
+            "Outputs.UserPoolId"
+        ]
+    }
+}

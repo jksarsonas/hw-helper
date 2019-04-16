@@ -1,0 +1,19 @@
+{
+    "master": {
+        "awscloudformation": {
+            "AuthRoleName": "dr-sales-app-20190409180950-authRole",
+            "UnauthRoleArn": "arn:aws:iam::584691348682:role/dr-sales-app-20190409180950-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::584691348682:role/dr-sales-app-20190409180950-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "dr-sales-app-20190409180950-deployment",
+            "UnauthRoleName": "dr-sales-app-20190409180950-unauthRole",
+            "StackName": "dr-sales-app-20190409180950",
+            "StackId": "arn:aws:cloudformation:us-east-1:584691348682:stack/dr-sales-app-20190409180950/9e1c4420-5aaf-11e9-8e9c-0eaa79b17470"
+        },
+        "categories": {
+            "auth": {
+                "cognito5aa4e90e": {}
+            }
+        }
+    }
+}
