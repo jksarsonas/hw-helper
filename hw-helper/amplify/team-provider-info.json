@@ -1,0 +1,14 @@
+{
+    "master": {
+        "awscloudformation": {
+            "AuthRoleName": "hw-helper-20190418112521-authRole",
+            "UnauthRoleArn": "arn:aws:iam::593194027240:role/hw-helper-20190418112521-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::593194027240:role/hw-helper-20190418112521-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "hw-helper-20190418112521-deployment",
+            "UnauthRoleName": "hw-helper-20190418112521-unauthRole",
+            "StackName": "hw-helper-20190418112521",
+            "StackId": "arn:aws:cloudformation:us-east-1:593194027240:stack/hw-helper-20190418112521/99f73680-6189-11e9-90b7-12f08cf73b28"
+        }
+    }
+}
